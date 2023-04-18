@@ -84,7 +84,9 @@
 
 **Obligatoriamente tiene que estar al final del formulario ya que cierra el form**
 
+**Ejemplo del formulario para publicar desde el front end**
 
+![Imagen de ejemplo del formulario](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/publicarBus.jpg)
 
 **Fin del formulario front-end para crear los post**
 
@@ -112,6 +114,15 @@
 ```
     [bus_carrusel]
 ```
+**Ejemplo del loop post publicado desde el front end**
+
+![Imagen de ejemplo del loop post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/postBus.jpg)
+
+**Ejemplo del post publicado desde el front end**
+
+![Imagen de ejemplo del post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/postBus.jpg)
+
+
 **Para mostrar la imagen destacada se usa con el editor del plugins elementor > elementos > imagen > se agrega que tome el dato de "featured image"**
 
 **Para mostrar la placa que es el titulo del bus publicado con el editor del plugins elementor > elementor > editor de texto > se agrega que tome el dato de Post title**

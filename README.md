@@ -18,7 +18,7 @@
 
 2. **Campo para ingresar la imagen destacada de la publicacion tiene para editar el corte de imagen**
 
-**parametro _label=valor_ por defecto "Click aquí para subir la foto del autobús y editarla"**
+**(Opcional) parametro _label=valor_ por defecto "Click aquí para subir la foto del autobús y editarla"**
 ```
     [bus_destacada_img]
 ```
@@ -34,7 +34,7 @@
 
 4. **Campo para ingresar la placa que sera el titulo de la publicacion bus**
 
-**parametro _placeholder=valor_ por defecto "Escribir el identificador del Bus", class por defecto "bus-input-title"**
+**(Opcional) parametro _placeholder=valor_ por defecto "Escribir el identificador del Bus", class por defecto "bus-input-title"**
 ```
     [bus_input_placa] 
 ```
@@ -42,7 +42,7 @@
 
 
 5. **Campo para ingresar el contenido de la publicacion que es la descripcion**
-**parametro _placeholder=valor_ por defecto ""**
+**(Opcional) parametro _placeholder=valor_ por defecto ""**
 ```
     [bus_textarea_descrip] 
 ```
@@ -75,7 +75,7 @@
 
 
 9. **Boton para guardar los datos de la publicacion para que sea revisado por el administrador del sitio**
-**parametros _text=valor_ por defecto "Publicar", class=valor por defecto "btn-publicar"**
+**(Opcional) parametros _text=valor_ por defecto "Publicar", _class=valor_ por defecto "btn-publicar"**
 ```
     [bus_publicar_btn] 
 ```

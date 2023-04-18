@@ -8,7 +8,7 @@
 ***It is a wordpress child theme with a front-end form to create bus post with images***
 
 
-# Los 9 shortcode para crear el formulario front-end para publicar los bus
+### Los 9 shortcode para crear el formulario front-end para publicar los bus
 
 1. **Inicio del formulario "Es Obligatorio ser el primero en colocar"**
 ```
@@ -19,9 +19,7 @@
 ```
     [bus_destacada_img]
 ```
-<sub>parametro</sub>
-**label=valor** 
-<sub>por defecto "Click aquí para subir la foto del autobús y editarla"</sub>
+**parametro _label=valor_ por defecto "Click aquí para subir la foto del autobús y editarla"**
 
 3. **Campo para ingresar varias imagenes aparte de la imagen destacada que se mostrara en el eslider**
 ```
@@ -74,7 +72,7 @@
 
 
 
-# Los 4 shortcode para mostar los datos de la publicacion del bus en la ficha tecnica
+### Los 4 shortcode para mostar los datos de la publicacion del bus en la ficha tecnica
 
 1. **Muestra los datos:**
 + fecha de la publicacion

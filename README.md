@@ -116,7 +116,7 @@
 ```
 **Ejemplo del loop post publicado desde el front end**
 
-![Imagen de ejemplo del loop post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/blob/master/imgReadme/postBus.jpg)
+![Imagen de ejemplo del loop post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/blob/master/imgReadme/loopBus.jpg)
 
 
 **Ejemplo del post publicado desde el front end**

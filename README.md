@@ -85,6 +85,9 @@
 **Obligatoriamente tiene que estar al final del formulario ya que cierra el form**
 
 
+**Ejemplo**
+
+![Uploading publicarBus.jpg…]()
 
 **Fin del formulario front-end para crear los post**
 

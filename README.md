@@ -15,59 +15,78 @@
     [bus_destacada_img]
 ```
 
+
 2. **Campo para ingresar la imagen destacada de la publicacion tiene para editar el corte de imagen**
+
+**parametro _label=valor_ por defecto "Click aquí para subir la foto del autobús y editarla"**
 ```
     [bus_destacada_img]
 ```
-**parametro _label=valor_ por defecto "Click aquí para subir la foto del autobús y editarla"**
+
 
 3. **Campo para ingresar varias imagenes aparte de la imagen destacada que se mostrara en el eslider**
+
+**class por defecto "bus-file-slider"**
 ```
     [bus_slider_img]
 ```
-**class por defecto "bus-file-slider"**
+
 
 4. **Campo para ingresar la placa que sera el titulo de la publicacion bus**
+
+**parametro _placeholder=valor_ por defecto "Escribir el identificador del Bus", class por defecto "bus-input-title"**
 ```
     [bus_input_placa] 
 ```
-**parametro placeholder=valor por defecto "Escribir el identificador del Bus", class por defecto bus-input-title**
+
+
 
 5. **Campo para ingresar el contenido de la publicacion que es la descripcion**
+**parametro _placeholder=valor_ por defecto ""**
 ```
     [bus_textarea_descrip] 
 ```
-**parametro placeholder=valor por defecto ""**
+
+
 
 6. **Campo selector de las provincia de la placa del bus**
+
+**class por defecto "bus-select-provincia"**
 ```
     [bus_select_provincia] 
 ```
-**class por defecto "bus-select-provincia"**
+
+
 
 7. **Campo selector o texto para ingresar el autor de la fotografia a publicar**
+
+**class por defecto "bus-select-fotografo"**
 ```
     [bus_select_fotografo] 
 ```
-**class por defecto "bus-select-fotografo"**
+
 
 8. **Campo selector para ubicar la publicacion en el menu donde se mostrara por provincia y por año del bus**
+
+**class por defecto "bus-select-menu"**
 ```
     [bus_select_menu] 
 ```
-**class por defecto bus-select-menu**
+
 
 9. **Boton para guardar los datos de la publicacion para que sea revisado por el administrador del sitio**
+**parametros _text=valor_ por defecto "Publicar", class=valor por defecto "btn-publicar"**
 ```
     [bus_publicar_btn] 
 ```
-**parametros text=valor por defecto "Publicar", class=valor por defecto "btn-publicar"**
+
+
 
 **Obligatoriamente tiene que estar al final del formulario ya que cierra el form**
 
 
-**Fin del formulario front-end para crear los post**
 
+**Fin del formulario front-end para crear los post**
 
 
 

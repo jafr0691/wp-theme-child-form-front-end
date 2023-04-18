@@ -19,7 +19,9 @@
 ```
     [bus_destacada_img]
 ```
-**parametro label=valor por defecto "Click aquí para subir la foto del autobús y editarla"**
+<sub>parametro</sub>
+**label=valor** 
+<sub>por defecto "Click aquí para subir la foto del autobús y editarla"</sub>
 
 3. **Campo para ingresar varias imagenes aparte de la imagen destacada que se mostrara en el eslider**
 ```

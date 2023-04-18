@@ -86,7 +86,7 @@
 
 **Ejemplo del formulario para publicar desde el front end**
 
-![Imagen de ejemplo del formulario](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/publicarBus.jpg)
+![Imagen de ejemplo del formulario](https://github.com/jafr0691/wp-theme-child-form-front-end/blob/master/imgReadme/publicarBus.jpg)
 
 **Fin del formulario front-end para crear los post**
 
@@ -116,11 +116,12 @@
 ```
 **Ejemplo del loop post publicado desde el front end**
 
-![Imagen de ejemplo del loop post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/postBus.jpg)
+![Imagen de ejemplo del loop post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/blob/master/imgReadme/postBus.jpg)
+
 
 **Ejemplo del post publicado desde el front end**
 
-![Imagen de ejemplo del post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/master/imgReadme/postBus.jpg)
+![Imagen de ejemplo del post desde el front end](https://github.com/jafr0691/wp-theme-child-form-front-end/blob/master/imgReadme/postBus.jpg)
 
 
 **Para mostrar la imagen destacada se usa con el editor del plugins elementor > elementos > imagen > se agrega que tome el dato de "featured image"**
